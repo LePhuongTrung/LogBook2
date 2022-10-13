@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="url">
+        <item>https://wallpaper.dog/large/5531074.png</item>
+        <item>https://wallpaper.dog/large/5531110.jpg</item>
+        <item>https://wallpaper.dog/large/5531114.png</item>
+        <item>https://wallpaper.dog/large/5531129.jpg</item>
+        <item>https://wallpaper.dog/large/5531132.jpg</item>
+        <item>https://wallpaper.dog/large/5531138.jpg</item>
+        <item>https://wallpaper.dog/large/5531169.jpg</item>
+        <item>https://wallpaper.dog/large/5531183.jpg</item>
+    </string-array>
+</resources>
